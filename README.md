@@ -1,6 +1,6 @@
 # Amazonclone
 Using HTML &amp; CSS <br>
--> Responsive layout
+-> Responsive layout<br>
 -> Embedding images and links effectively<br>
 -> Forms and input fields (e.g. search bar)<br>
 -> CSS Flexbox and Grid for layout structuring<br>
